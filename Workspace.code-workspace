@@ -1,23 +1,31 @@
 {
 	"folders": [
 		{
-			"name": "Game",
+			"name": "engine",
+			"path": "./engine",
+		},
+		{
+			"name": "game",
 			"path": "./game",
 		},
 		{
-			"name": "Tools",
-			"path": "./tools",
+			"name": "assets",
+			"path": "./assets",
 		},
 		{
-			"name": "Resources",
-			"path": "./resources",
+			"name": "external",
+			"path": "./external",
 		},
 		{
-			"name": "Builds",
+			"name": "builds",
 			"path": "./builds",
 		},
 		{
-			"name": "Root",
+			"name": "tools",
+			"path": "./tools",
+		},
+		{
+			"name": "root",
 			"path": ".",
 		}
 	]
